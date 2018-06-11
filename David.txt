@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 David Alvarez
 Bismarck Franco
-=======
-Danner Galvarro
->>>>>>> Archivo-David
